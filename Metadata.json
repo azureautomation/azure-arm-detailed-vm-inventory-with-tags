@@ -1,0 +1,20 @@
+{
+    "Author": "DRougeau",
+    "ContentSize": 25474,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-arm-detailed-vm-inventory-with-tags/master/AzureARMVMinventorywithTags.ps1",
+    "DownloadCount": 7623,
+    "Id": "Azure-ARM-VM-Inventory-57ba01b7",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 29,
+    "RaterCount": 9,
+    "Rating": 4.9,
+    "ReleaseDate": "2016-11-9T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Sample script to export detailed Azure ARM VM with Tags  The output creates 1 file per subscription and allows filtering by Key tag values.  Support up to 15 tags key per subscription.",
+    "Title": "Azure ARM Detailed VM Inventory with Tags",
+    "UpdatedDate": "2017-10-20T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-arm-detailed-vm-inventory-with-tags",
+    "UserTags": "Microsoft Azure, Powershell, Export your VM Inventory"
+}
